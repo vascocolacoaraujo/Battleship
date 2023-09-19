@@ -16,7 +16,7 @@ public abstract class Ship implements IShip
     private static final String BARCA = "barca";
     
     /**
-     * Create a ship
+     * Create a new ship
      * @param shipKind 
      * @param bearing
      * @param pos
