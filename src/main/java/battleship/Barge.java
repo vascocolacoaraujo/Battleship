@@ -6,7 +6,7 @@ public class Barge extends Ship
     private static final String NAME = "Barca";
 
     /**
-     * @param bearing - barge bearin
+     * @param bearing - barge bearing volta main
      * @param pos     - upper left position of the barge
      */
     public Barge(Compass bearing, IPosition pos)
