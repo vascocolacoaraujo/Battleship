@@ -9,7 +9,7 @@ public class Caravel extends Ship
     private static final String NAME = "Caravela";
 
     /**
-     * @param bearing the bearing where the Caravel heads to teste ttt
+     * @param bearing the bearing where the Caravel heads to
      * @param pos     initial point for positioning the Caravel
      */
     public Caravel(Compass bearing, IPosition pos) throws NullPointerException, IllegalArgumentException
